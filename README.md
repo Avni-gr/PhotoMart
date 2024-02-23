@@ -1,14 +1,6 @@
 # PhotoMart- a platform dedicated to the art and passion of photography. 
 PhotoMart is a project crafted with HTML, CSS, and JavaScript to showcase and celebrate the beauty of photography. Whether you're an aspiring photographer looking for inspiration or a seasoned pro wanting to share your work, this platform provides a space to appreciate and explore the world through the lens.
 
-### Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-
 ## Overview
 
 ### Screenshot
