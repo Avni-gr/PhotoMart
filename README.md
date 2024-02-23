@@ -6,9 +6,8 @@ PhotoMart is a project crafted with HTML, CSS, and JavaScript to showcase and ce
 ### Screenshot
 
 ![](https://github.com/Avni-gr/01test-website/blob/master/Screenshot%202024-02-23%20201633.png?raw=true)
-![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(9).png)
-![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(10).png)
-![](https://github.com/Avni-gr/my_portfolio/blob/main/Screenshot%20(11).png?raw=true)
+![](https://github.com/Avni-gr/01test-website/blob/master/Screenshot%202024-02-23%20201655.png?raw=true)
+![](https://github.com/Avni-gr/01test-website/blob/master/Screenshot%202024-02-23%20201723.png?raw=true)
 
 ### Links
 
