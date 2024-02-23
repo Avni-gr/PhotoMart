@@ -11,7 +11,7 @@ PhotoMart is a project crafted with HTML, CSS, and JavaScript to showcase and ce
 
 ### Links
 
-- Live Site URL: (https://avni-gr.github.io/my_portfolio/)
+- Live Site URL: (https://avni-gr.github.io/01test-website/)
 
 ## My process
 
@@ -19,6 +19,7 @@ PhotoMart is a project crafted with HTML, CSS, and JavaScript to showcase and ce
 
 - Semantic HTML5 markup
 - CSS custom properties
+- JavaScript
 
 ## Author
 
